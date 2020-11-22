@@ -1,6 +1,12 @@
-body {
-    font-family: vazir;
+html, body
+{
+    height: 100%;
+    width: 100%;
 }
+body {
+  background: linear-gradient(90deg, #afafaf 0%, #d0e4d1 100%);
+}
+
 .header  {
 /* text-align: center;*/
 font-size: 30px;
@@ -23,8 +29,10 @@ h1  {
   /*  text-align: center;*/
    font-family: vazir;
   /* margin : 40px 400px;*/
+  padding-right: 10px;
+  padding-top: 10px;
   margin:auto;
-  max-width: 500px;
+  max-width: 500px; 
 /*justify-content: center;
 /display: block;*/
 
