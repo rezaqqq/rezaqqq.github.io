@@ -1,6 +1,6 @@
 @font-face{
     font-family: "vazir";
-    src: url("rezaqqq.me/blob/master/fonts/Vazir-Regular-UI.ttf") format(ttf);
+    src: url("https://rezaqqq.me/blob/master/fonts/Vazir-Regular-UI.ttf") format(ttf);
     src: local(Vazir);
 }
 body{
@@ -47,6 +47,7 @@ body{
     font-size: 1.3em;
 }
 .title{
+    color:maroon;
     font-family: vazir;
     font-size: 2em;
     display: flex;
