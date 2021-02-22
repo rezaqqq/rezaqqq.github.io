@@ -53,3 +53,6 @@ body{
     display: flex;
     justify-content: center;
 }
+.date {
+    font-size: 0.6em;
+}
